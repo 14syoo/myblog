@@ -1,4 +1,4 @@
-baseURL = "http://14syoo.github.io/"
+baseURL = "http://14syoo.github.io"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Seung Yong Yoo"
 theme = "hugo-eureka"
